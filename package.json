@@ -1,0 +1,9 @@
+{
+  "name": "string-differencer",
+  "version": "1.0.0",
+  "description": "A module that calculates and returns the differences between two input strings.",
+  "main": "stringDifference.js",
+  "keywords": ["string", "difference"],
+  "author": "Fayssal El majjouti",
+  "license": "MIT"
+}
